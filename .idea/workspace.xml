@@ -1,0 +1,73 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<project version="4">
+  <!-- Auto-import settings for automatic reloading -->
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="AUTOMATIC" />
+  </component>
+  
+  <!-- Change list manager settings -->
+  <component name="ChangeListManager">
+    <list default="true" id="unique-changelist-id-001" name="Default Changes" comment="Default change list for the project" />
+    <option name="SHOW_DIALOG" value="true" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
+    <option name="LAST_RESOLUTION" value="MERGE" />
+  </component>
+  
+  <!-- Markdown settings migration information -->
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="2" />
+  </component>
+  
+  <!-- Code style settings migration information -->
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="3" />
+  </component>
+  
+  <!-- Project color settings -->
+  <component name="ProjectColorInfo">
+    <![CDATA[
+    {
+      "colorScheme": "Dark",
+      "associatedIndex": 5
+    }
+    ]]>
+  </component>
+  
+  <!-- Project identifier -->
+  <component name="ProjectId" id="new-project-id-2615" />
+  
+  <!-- View state settings for the project -->
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="false" />
+  </component>
+  
+  <!-- Properties of the project -->
+  <component name="PropertiesComponent">
+    <![CDATA[
+    {
+      "keyToString": {
+        "RunOnceActivity.OpenProjectViewOnStart": "true",
+        "RunOnceActivity.ShowReadmeOnStart": "false",
+        "kotlin-language-version-configured": "false",
+        "last_opened_file_path": "C:/Users/Store/Downloads/new-project-directory"
+      }
+    }
+    ]]>
+  </component>
+  
+  <!-- Spell checker settings -->
+  <component name="SpellCheckerSettings" RuntimeDictionaries="1" Folders="1" CustomDictionaries="1" DefaultDictionary="project-level" UseSingleDictionary="false" transferred="false" />
+  
+  <!-- Task manager settings -->
+  <component name="TaskManager">
+    <task active="true" id="Task-001" summary="Initial Setup Task">
+      <changelist id="unique-changelist-id-001" name="Default Changes" comment="Primary change list for initial tasks" />
+      <created>1721844002487</created>
+      <option name="number" value="Task-001" />
+      <option name="presentableId" value="InitialSetup" />
+      <updated>1721844002487</updated>
+    </task>
+    <servers />
+  </component>
+</project>

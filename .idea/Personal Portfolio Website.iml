@@ -1,0 +1,24 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="5">
+  <!-- Module Root Manager Configuration -->
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <!-- Exclude output directory from module content -->
+    <exclude-output />
+    
+    <!-- Define module content root -->
+    <content url="file://$MODULE_DIR$/src" />
+    
+    <!-- Define order entries for module dependencies -->
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    
+    <!-- Additional settings can be added here -->
+    <orderEntry type="library" library="MyLibrary" />
+    <orderEntry type="module" module="DependencyModule" />
+  </component>
+  
+  <!-- Additional components and settings can be added here -->
+  <component name="ModuleDependencies">
+    <option name="additionalDependencies" value="true" />
+  </component>
+</module>
